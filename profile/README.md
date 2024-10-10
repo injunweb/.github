@@ -1,31 +1,26 @@
-# injunweb
+![animated-logo-header](https://github.com/user-attachments/assets/5ace60b5-f742-40c2-a3ba-eac0e732a91d)
 
-## 비전
+## 우리의 비전
+injunweb은 여러분의 든든한 개발 파트너입니다. 우리는 개발자 여러분이 애플리케이션 배포와 관리에 쏟는 시간과 노력을 줄여, 진정으로 중요한 일에 집중할 수 있도록 돕고 있어요.
 
-injunweb은 개발자들에게 간편하고 효율적인 애플리케이션 배포 및 관리 환경을 제공합니다.
+## 여러분을 위한 핵심 기능
+- **쉽고 빠른 배포**: 복잡한 과정은 뒤로! 몇 번의 클릭만으로 여러분의 애플리케이션이 세상에 공개됩니다.
+- **자동화의 마법, CI/CD**: GitHub Actions와 GoCD가 만나 탄생한 완벽한 자동화. 여러분은 코드에만 집중하세요.
+- **안전한 비밀 보관소**: HashiCorp Vault와 함께라면 중요한 정보도 안심하고 관리할 수 있어요.
 
-## 핵심 기능
-
-- **효율적인 배포 프로세스**: 최적화된 워크플로우를 통한 신속한 애플리케이션 배포
-- **자동화된 CI/CD 파이프라인**: GitHub Actions 및 GoCD 통합으로 지속적 통합 및 배포 실현
-- **고급 보안 관리**: HashiCorp Vault를 활용한 환경 변수의 안전한 관리
-
-## 기술 스택
-
-injunweb은 최신 기술을 활용하여 안정적이고 확장 가능한 솔루션을 제공합니다:
+## 함께 만들어가는 기술의 미래
+우리가 사용하는 혁신적인 기술들을 소개합니다:
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-## 비즈니스 가치
+## injunweb과 함께라면
+1. **더 스마트하게 일하세요**: 반복적인 작업은 우리에게 맡기고, 여러분은 창의적인 일에 집중하세요.
+2. **세상에 더 빨리 선보이세요**: 아이디어를 현실로 만드는 속도가 빨라질수록, 성공으로 가는 길은 더욱 가까워집니다.
 
-1. **운영 효율성 향상**: 자동화된 프로세스로 인력 및 시간 비용 절감
-2. **빠른 시장 진입**: 신속한 애플리케이션 배포로 시장 대응력 강화
-
-injunweb은 디지털 혁신을 위한 최적의 파트너가 될 것입니다. 자세한 정보는 웹사이트를 참조해 주시기 바랍니다.
+injunweb은 여러분의 혁신 여정에 함께합니다.
 
 ---
-
-© 2024 injunweb. All Rights Reserved.
+© 2024 injunweb. 함께 성장하는 모든 순간을 소중히 여깁니다.
