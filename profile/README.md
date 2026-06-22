@@ -1,5 +1,6 @@
-# injun-cloud
+# INJUN CLOUD™
 
-Personal cloud, self-hosted on a homelab.
+> Do you like homelab?
 
-Home of **Naru** — a GitOps Kubernetes PaaS — and more to come.
+---
+© 2024 injun-cloud. 함께 성장하는 모든 순간을 소중히 여깁니다.
